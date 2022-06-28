@@ -1,0 +1,3 @@
+As i have stated in the source codes as well it works perfectly fine in Visual studio code when 
+i want to compile my code but in Visual studio in one instance it gives a error so i had to
+give the screenshots via VisualStudioCode.
